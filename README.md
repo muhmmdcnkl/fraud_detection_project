@@ -50,6 +50,6 @@ If you use this code in your research, please cite:
   author = {Muhammed Çınaklı},
   title = {Fraud Detection System},
   year = {2025},
-  url = {https://github.com/yourusername/fraud_detection_project}
+  url = {https://github.com/muhmmdcnkl/fraud_detection_project}
 }
 ``` 
